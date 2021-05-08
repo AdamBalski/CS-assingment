@@ -1,5 +1,5 @@
 # CS-assingment
-## Computer science assingment. Website with some thoughts about living after lockdown.
+## Computer science assingment.
 ---
 
 Libraries, images and other things I have used to make it:
